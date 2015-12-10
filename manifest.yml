@@ -1,0 +1,7 @@
+---
+applications:
+- name: Javaplays Struts Hello World
+  memory: 512M
+  path: jp-struts-helloworld.war
+  host: jp-struts-helloworld
+
