@@ -1,4 +1,4 @@
-# Java Plays Struts Hello World
+# Struts Hello World Web Starter
 
 
 ## To Use
